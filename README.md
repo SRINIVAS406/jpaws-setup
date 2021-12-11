@@ -1,9 +1,13 @@
 # After cloning run below commands
 
 npm start
+
 npm install axios
+
 npm install -g yarn
+
 yarn add react-router-dom
+
 npm install react-router-dom@5.2.0
 
 
